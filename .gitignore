@@ -1,0 +1,13 @@
+.idea/*
+.ipynb_checkpoints/*
+*.swp
+*.out
+*.err
+__pycache__
+setTwo/
+output/
+sbatch/
+nasalDNN/sounds
+French/
+mls_french_opus/
+dataset/

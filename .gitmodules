@@ -1,0 +1,6 @@
+[submodule "FriDNN"]
+	path = FriDNN
+	url = git@github.com:yurtmete/FriDNN.git
+[submodule "phonemizer"]
+	path = phonemizer
+	url = git@github.com:DeliJingyiC/phonemizer.git
